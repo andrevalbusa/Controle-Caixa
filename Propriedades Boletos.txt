@@ -1,0 +1,7 @@
+Digitavel: 34191 09016 94155 323168 23258 190000 2 94420000057894
+Cod Barra: 34192 94420 00005 789410 90194 155323 1 62325819000
+
+Diferenças        DIGITAVEL   COD BARRA
+Numero digitos - 47 Digitos x 44 Digitos
+        Valor  -  [38:47]   x  [15:23]
+   Vencimento  -  [33:37]   x   [6:9]
